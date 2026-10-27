@@ -1,0 +1,26 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*~
+
+# 编译产物
+*.exe
+*.dll
+*.obj
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+
+# 依赖与日志
+node_modules/
+*.log
